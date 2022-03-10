@@ -10,7 +10,7 @@ new features in Alpha_1.5:
 
 goals for Alpha_1.7:
 ----------------------------------------------------------
-code cleaning update
+sorting by date and impliment a text editor 
 
 
 
