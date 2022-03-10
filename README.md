@@ -2,7 +2,7 @@
 Currently in pre-alpha this program is a cli diary written entirely in cpp.
 it's dirty, bloated and barely functioning but thats the point of a pre-Alpha.
 
-new features in Alpha_1.5:
+new features in Alpha_1.5:\n
 +Menu for selected navigation of entries
 
 goals for Alpha_1.7:
