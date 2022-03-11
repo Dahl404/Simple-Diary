@@ -5,6 +5,7 @@ it's dirty, bloated and barely functioning but thats the point of a pre-Alpha.
 new features in Alpha_1.5.2:
 ----------------------------------------------------------
 +shitty half baked editor
++easier menu navigation
 
 
 goals for Alpha_1.7:
