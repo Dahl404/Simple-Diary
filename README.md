@@ -2,10 +2,9 @@
 Currently in pre-alpha this program is a cli diary written entirely in cpp.
 it's dirty, bloated and barely functioning but thats the point of a pre-Alpha.
 
-new features in Alpha_1.5:
+new features in Alpha_1.5.2:
 ----------------------------------------------------------
-+Menu for selected navigation of entries
-
++shitty half baked editor
 
 
 goals for Alpha_1.7:
