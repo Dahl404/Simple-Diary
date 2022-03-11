@@ -8,10 +8,10 @@ proto-type insert mode
 
 goals for alpha_1.5.4:
 ----------------------------------------------------------
-complete insert mode
-graphical menu(text mode alt availible)
+complete insert mode  
+graphical menu(text mode alt availible)  
 arrow key navigation(optional) 
-colored text
+colored text  
 
 goals by Alpha_1.7:
 ----------------------------------------------------------
