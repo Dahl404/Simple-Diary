@@ -12,7 +12,8 @@ goals for alpha_1.5.4:
 complete insert mode(finished in exp version)  
 graphical menu(text mode alt availible)  
 
-goals for alpha_1.5.5:
+goals for alpha_1.5.5:  
+----------------------------------------------------------
 color and formatting  
 
 also- no i will not make a makefile until this project needs one which i doubt will be any time soon. 
